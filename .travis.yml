@@ -4,7 +4,7 @@ install:
   - sudo apt-get install mono-devel mono-gmcs nunit-console
 
 script:
-  - xbuild calculator/calculator.sln
+  - xbuild Calculator/Calculator.sln
 notifications:
   irc: "irc.freenode.org#parttimelegend"
 email:
