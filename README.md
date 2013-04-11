@@ -18,3 +18,5 @@ Calculator
 Simple calculator. I forked it to give the original author a few pointers on C#. Then I found myself liking it.
 
 [![Build Status](https://travis-ci.org/PartTimeLegend/calculator.png?branch=master)](https://travis-ci.org/PartTimeLegend/calculator)
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=parttimelegend&url=https://github.com/PartTimeLegend/calculator&title=Calculator&language=&tags=github&category=software)
